@@ -70,26 +70,24 @@ export default function Hero() {
               Search curated premium properties tailored exactly to your unique lifestyle footprints.</p>
 
             <div className="bg-white/40 backdrop-blur-xl rounded-2xl shadow-[0_20px_50px_-12px_rgba(15,23,42,0.08)] border 
-              border-white/60 p-4 mb-6">
+              border-white/60 p-4 mb-6 isolate">
               <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-1 lg:grid-cols-3 gap-3">
-                <div className="rounded-xl bg-white/70 backdrop-blur-md border border-white/80
-                 shadow-[0_2px_8px_-2px_rgba(15,23,42,0.04)] transition-all duration-200 hover:bg-white/90 hover:shadow-md">
+                <div className="relative z-20 focus-within:z-30 rounded-xl bg-white/70 backdrop-blur-md border border-white/80
+                  shadow-[0_2px_8px_-2px_rgba(15,23,42,0.04)] transition-all duration-200 hover:bg-white/90 hover:shadow-md">
                   <SelectDropdown options={locations} value={selectedLocation} onChange={setSelectedLocation} placeholder="Location"
                     searchable icon={HiOutlineLocationMarker} size="sm" panelMaxHeight="8rem"
                     className="w-full text-slate-800 placeholder-slate-400 font-medium" />
                 </div>
-
-                <div className="rounded-xl bg-white/70 backdrop-blur-md border border-white/80 shadow-[0_2px_8px_-2px_rgba(15,23,42,0.04)] transition-all duration-200 hover:bg-white/90 hover:shadow-md">
+                <div className="relative z-10 focus-within:z-30 rounded-xl bg-white/70 backdrop-blur-md border border-white/80 shadow-[0_2px_8px_-2px_rgba(15,23,42,0.04)] transition-all duration-200 hover:bg-white/90 hover:shadow-md">
                   <SelectDropdown options={["Any Type", ...propertyTypes]} value={selectedType || "Any Type"}
                     onChange={(v) => setSelectedType(v === "Any Type" ? "" : v)} placeholder="Property Type" icon={HiOutlineHome}
                     size="sm" panelMaxHeight="8rem" className="w-full text-slate-800 placeholder-slate-400 font-medium" />
                 </div>
-
-                <div className="rounded-xl bg-white/70 backdrop-blur-md border border-white/80 shadow-[0_2px_8px_-2px_rgba(15,23,42,0.04)] transition-all duration-200 hover:bg-white/90 hover:shadow-md">
+                <div className="relative z-0 focus-within:z-30 rounded-xl bg-white/70 backdrop-blur-md border border-white/80 shadow-[0_2px_8px_-2px_rgba(15,23,42,0.04)] transition-all duration-200 hover:bg-white/90 hover:shadow-md">
                   <SelectDropdown options={budgetRanges.map((b) => ({ value: b.label, label: b.label }))}
                     value={selectedBudgetLabel} onChange={setSelectedBudgetLabel} placeholder="Budget" icon={HiOutlineCurrencyDollar}
                     size="sm" panelMaxHeight="8rem" className="w-full text-slate-800 placeholder-slate-400 font-medium" />
-                </div>
+                </div> 
               </div>
             </div>
 
