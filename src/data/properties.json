@@ -1,0 +1,2797 @@
+[
+  {
+    "id": "p1",
+    "slug": "greenview-villa",
+    "title": "Greenview Villa",
+    "location": "Koramangala, Bengaluru",
+    "address": "18th Main Road, Koramangala, Bengaluru, Karnataka 560034",
+    "price": "₹ 1.43 Cr",
+    "priceValue": 14300000,
+    "pricePerSqft": "₹ 11237 / sq.ft",
+    "type": "Villa",
+    "bhk": "4 BHK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "balconies": 2,
+    "parking": 1,
+    "area": "1895 sq.ft.",
+    "builtUpArea": "1895 sq.ft.",
+    "plotArea": "2874 sq.ft.",
+    "furnishing": "Unfurnished",
+    "facing": "North",
+    "floor": "Ground + 1",
+    "totalFloors": 2,
+    "propertyAge": "New",
+    "possession": "Under Construction",
+    "ownership": "Freehold",
+    "featured": true,
+    "verified": true,
+    "badge": "New Launch",
+    "badgeColor": "red",
+    "tag": "HOT",
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      12.9352,
+      77.6245
+    ],
+    "agent": {
+      "name": "Priya Sharma",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9872157089",
+      "email": "priya.sharma@dwelling.com",
+      "experience": "5 Years",
+      "image": "https://randomuser.me/api/portraits/women/40.jpg"
+    },
+    "statistics": {
+      "views": 2148,
+      "enquiries": 188,
+      "saved": 204
+    },
+    "listedOn": "2026-06-18",
+    "updatedOn": "2026-06-28",
+    "virtualTour": false,
+    "videoAvailable": true
+  },
+  {
+    "id": "p2",
+    "slug": "skyline-heights",
+    "title": "Skyline Heights",
+    "location": "Whitefield, Bengaluru",
+    "address": "ITPL Main Road, Whitefield, Bengaluru, Karnataka 560066",
+    "price": "₹ 3.75 Cr",
+    "priceValue": 37500000,
+    "pricePerSqft": "₹ 11700 / sq.ft",
+    "type": "Apartment",
+    "bhk": "4 BHK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "balconies": 4,
+    "parking": 3,
+    "area": "1486 sq.ft.",
+    "builtUpArea": "1486 sq.ft.",
+    "plotArea": "2233 sq.ft.",
+    "furnishing": "Unfurnished",
+    "facing": "West",
+    "floor": "13",
+    "totalFloors": 23,
+    "propertyAge": "5 Years",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": true,
+    "verified": true,
+    "badge": "Premium",
+    "badgeColor": "gold",
+    "tag": "TRENDING",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1576941089067-2de3c901e126?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706809019043-c16ada0165e9?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706808958118-48ca527f5a45?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      12.9698,
+      77.75
+    ],
+    "agent": {
+      "name": "Rahul Mehta",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9825255940",
+      "email": "rahul.mehta@dwelling.com",
+      "experience": "10 Years",
+      "image": "https://randomuser.me/api/portraits/men/41.jpg"
+    },
+    "statistics": {
+      "views": 3293,
+      "enquiries": 64,
+      "saved": 165
+    },
+    "listedOn": "2026-06-18",
+    "updatedOn": "2026-06-28",
+    "virtualTour": true,
+    "videoAvailable": true
+  },
+  {
+    "id": "p3",
+    "slug": "urban-nest",
+    "title": "Urban Nest",
+    "location": "Hitech City, Hyderabad",
+    "address": "Madhapur, Hyderabad, Telangana 500081",
+    "price": "₹ 2.05 Cr",
+    "priceValue": 20500000,
+    "pricePerSqft": "₹ 9244 / sq.ft",
+    "type": "Penthouse",
+    "bhk": "4 BHK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "balconies": 3,
+    "parking": 1,
+    "area": "2841 sq.ft.",
+    "builtUpArea": "2841 sq.ft.",
+    "plotArea": "3331 sq.ft.",
+    "furnishing": "Semi Furnished",
+    "facing": "South",
+    "floor": "15",
+    "totalFloors": 27,
+    "propertyAge": "5 Years",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": true,
+    "verified": true,
+    "badge": "Hot Deal",
+    "badgeColor": "green",
+    "tag": "TRENDING",
+    "image": "https://images.unsplash.com/photo-1502672023488-70e25813eb80?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1502672023488-70e25813eb80?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706808886508-e21834b4672c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1593696140826-c58b021acf8b?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197198-63277d473c68?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1503174971373-b1f69850bded?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      17.4483,
+      78.3915
+    ],
+    "agent": {
+      "name": "Ananya Reddy",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9895567339",
+      "email": "ananya.reddy@dwelling.com",
+      "experience": "3 Years",
+      "image": "https://randomuser.me/api/portraits/women/42.jpg"
+    },
+    "statistics": {
+      "views": 3277,
+      "enquiries": 112,
+      "saved": 51
+    },
+    "listedOn": "2026-06-18",
+    "updatedOn": "2026-06-28",
+    "virtualTour": false,
+    "videoAvailable": true
+  },
+  {
+    "id": "p4",
+    "slug": "palm-residency",
+    "title": "Palm Residency",
+    "location": "Baner, Pune",
+    "address": "Baner Road, Pune, Maharashtra 411045",
+    "price": "₹ 2.77 Cr",
+    "priceValue": 27700000,
+    "pricePerSqft": "₹ 16261 / sq.ft",
+    "type": "Independent House",
+    "bhk": "2 BHK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "balconies": 3,
+    "parking": 3,
+    "area": "4025 sq.ft.",
+    "builtUpArea": "4025 sq.ft.",
+    "plotArea": "4644 sq.ft.",
+    "furnishing": "Fully Furnished",
+    "facing": "West",
+    "floor": "Ground + 1",
+    "totalFloors": 2,
+    "propertyAge": "New",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": true,
+    "verified": true,
+    "badge": "Luxury",
+    "badgeColor": "red",
+    "tag": "TRENDING",
+    "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1679105796578-aa48a4d7dea3?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1679105796568-6ff0b24670a5?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197330-2f82e7f69111?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      18.559,
+      73.7868
+    ],
+    "agent": {
+      "name": "Arjun Nair",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9837825962",
+      "email": "arjun.nair@dwelling.com",
+      "experience": "6 Years",
+      "image": "https://randomuser.me/api/portraits/men/43.jpg"
+    },
+    "statistics": {
+      "views": 3490,
+      "enquiries": 146,
+      "saved": 140
+    },
+    "listedOn": "2026-06-18",
+    "updatedOn": "2026-06-28",
+    "virtualTour": true,
+    "videoAvailable": true
+  },
+  {
+    "id": "p5",
+    "slug": "royal-meadows",
+    "title": "Royal Meadows",
+    "location": "Marina, Chennai",
+    "address": "RK Salai, Chennai, Tamil Nadu 600004",
+    "price": "₹ 1.65 Cr",
+    "priceValue": 16500000,
+    "pricePerSqft": "₹ 11323 / sq.ft",
+    "type": "Duplex",
+    "bhk": "2 BHK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "balconies": 3,
+    "parking": 2,
+    "area": "3065 sq.ft.",
+    "builtUpArea": "3065 sq.ft.",
+    "plotArea": "3804 sq.ft.",
+    "furnishing": "Fully Furnished",
+    "facing": "South",
+    "floor": "12",
+    "totalFloors": 27,
+    "propertyAge": "New",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Premium",
+    "badgeColor": "gold",
+    "tag": "HOT",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108198418-584af95a2b6f?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1689346547653-c165d6c1bef6?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108198161-398232ecdcb8?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197934-cf432fa4a5cd?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1641998277833-3a911b7b56d8?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      13.0499,
+      80.2824
+    ],
+    "agent": {
+      "name": "Kavita Nair",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9872909851",
+      "email": "kavita.nair@dwelling.com",
+      "experience": "12 Years",
+      "image": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    "statistics": {
+      "views": 4462,
+      "enquiries": 239,
+      "saved": 323
+    },
+    "listedOn": "2026-06-18",
+    "updatedOn": "2026-06-28",
+    "virtualTour": false,
+    "videoAvailable": true
+  },
+  {
+    "id": "p6",
+    "slug": "lakefront-luxe",
+    "title": "Lakefront Luxe",
+    "location": "Kakkanad, Kochi",
+    "address": "Infopark Expressway, Kochi, Kerala 682030",
+    "price": "₹ 1.45 Cr",
+    "priceValue": 14500000,
+    "pricePerSqft": "₹ 14573 / sq.ft",
+    "type": "Apartment",
+    "bhk": "3 BHK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "balconies": 4,
+    "parking": 3,
+    "area": "4137 sq.ft.",
+    "builtUpArea": "4137 sq.ft.",
+    "plotArea": "5060 sq.ft.",
+    "furnishing": "Unfurnished",
+    "facing": "East",
+    "floor": "6",
+    "totalFloors": 22,
+    "propertyAge": "5 Years",
+    "possession": "Under Construction",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "New Launch",
+    "badgeColor": "blue",
+    "tag": "FEATURED",
+    "image": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1638454668466-e8dbd5462f20?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      10.0159,
+      76.3419
+    ],
+    "agent": {
+      "name": "Vikram Singh",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9823444106",
+      "email": "vikram.singh@dwelling.com",
+      "experience": "11 Years",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    "statistics": {
+      "views": 3217,
+      "enquiries": 100,
+      "saved": 181
+    },
+    "listedOn": "2026-06-18",
+    "updatedOn": "2026-06-28",
+    "virtualTour": true,
+    "videoAvailable": true
+  },
+  {
+    "id": "p7",
+    "slug": "harmony-homes",
+    "title": "Harmony Homes",
+    "location": "Andheri West, Mumbai",
+    "address": "Link Road, Mumbai, Maharashtra 400053",
+    "price": "₹ 2.56 Cr",
+    "priceValue": 25600000,
+    "pricePerSqft": "₹ 16657 / sq.ft",
+    "type": "Villa",
+    "bhk": "2 BHK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "balconies": 2,
+    "parking": 1,
+    "area": "2984 sq.ft.",
+    "builtUpArea": "2984 sq.ft.",
+    "plotArea": "3558 sq.ft.",
+    "furnishing": "Fully Furnished",
+    "facing": "North",
+    "floor": "Ground + 1",
+    "totalFloors": 2,
+    "propertyAge": "1 Year",
+    "possession": "Under Construction",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Luxury",
+    "badgeColor": "blue",
+    "tag": "HOT",
+    "image": "https://images.unsplash.com/photo-1691425700585-c108acad6467?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1691425700585-c108acad6467?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1576941089067-2de3c901e126?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706809019043-c16ada0165e9?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      19.1364,
+      72.8276
+    ],
+    "agent": {
+      "name": "Sneha Iyer",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9842028966",
+      "email": "sneha.iyer@dwelling.com",
+      "experience": "3 Years",
+      "image": "https://randomuser.me/api/portraits/women/46.jpg"
+    },
+    "statistics": {
+      "views": 2083,
+      "enquiries": 27,
+      "saved": 380
+    },
+    "listedOn": "2026-06-18",
+    "updatedOn": "2026-06-28",
+    "virtualTour": false,
+    "videoAvailable": true
+  },
+  {
+    "id": "p8",
+    "slug": "elite-towers",
+    "title": "Elite Towers",
+    "location": "Dwarka, Delhi",
+    "address": "Sector 10, Dwarka, New Delhi 110075",
+    "price": "₹ 1.26 Cr",
+    "priceValue": 12600000,
+    "pricePerSqft": "₹ 8362 / sq.ft",
+    "type": "Studio",
+    "bhk": "3 BHK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "balconies": 3,
+    "parking": 1,
+    "area": "3316 sq.ft.",
+    "builtUpArea": "3316 sq.ft.",
+    "plotArea": "4285 sq.ft.",
+    "furnishing": "Unfurnished",
+    "facing": "South",
+    "floor": "8",
+    "totalFloors": 23,
+    "propertyAge": "2 Years",
+    "possession": "Under Construction",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "New Launch",
+    "badgeColor": "red",
+    "tag": "TRENDING",
+    "image": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706808958118-48ca527f5a45?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706808886508-e21834b4672c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1593696140826-c58b021acf8b?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197198-63277d473c68?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      28.5921,
+      77.046
+    ],
+    "agent": {
+      "name": "Karthik Iyer",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9896474733",
+      "email": "karthik.iyer@dwelling.com",
+      "experience": "6 Years",
+      "image": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "statistics": {
+      "views": 3381,
+      "enquiries": 140,
+      "saved": 428
+    },
+    "listedOn": "2026-06-18",
+    "updatedOn": "2026-06-28",
+    "virtualTour": true,
+    "videoAvailable": true
+  },
+  {
+    "id": "p9",
+    "slug": "sunrise-estate",
+    "title": "Sunrise Estate",
+    "location": "Panjim, Goa",
+    "address": "MG Road, Panjim, Goa 403001",
+    "price": "₹ 3.92 Cr",
+    "priceValue": 39200000,
+    "pricePerSqft": "₹ 11693 / sq.ft",
+    "type": "Apartment",
+    "bhk": "5 BHK",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "balconies": 2,
+    "parking": 1,
+    "area": "1581 sq.ft.",
+    "builtUpArea": "1581 sq.ft.",
+    "plotArea": "2434 sq.ft.",
+    "furnishing": "Unfurnished",
+    "facing": "West",
+    "floor": "10",
+    "totalFloors": 12,
+    "propertyAge": "New",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Luxury",
+    "badgeColor": "blue",
+    "tag": "HOT",
+    "image": "https://images.unsplash.com/photo-1671621556339-d833f511ab5d?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1671621556339-d833f511ab5d?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1503174971373-b1f69850bded?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1679105796578-aa48a4d7dea3?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1679105796568-6ff0b24670a5?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197330-2f82e7f69111?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      15.4909,
+      73.8278
+    ],
+    "agent": {
+      "name": "Meera Pillai",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9834835222",
+      "email": "meera.pillai@dwelling.com",
+      "experience": "11 Years",
+      "image": "https://randomuser.me/api/portraits/women/48.jpg"
+    },
+    "statistics": {
+      "views": 2520,
+      "enquiries": 190,
+      "saved": 288
+    },
+    "listedOn": "2026-06-18",
+    "updatedOn": "2026-06-28",
+    "virtualTour": false,
+    "videoAvailable": true
+  },
+  {
+    "id": "p10",
+    "slug": "blue-horizon",
+    "title": "Blue Horizon",
+    "location": "Indiranagar, Bengaluru",
+    "address": "100 Feet Road, Indiranagar, Bengaluru 560038",
+    "price": "₹ 1.39 Cr",
+    "priceValue": 13900000,
+    "pricePerSqft": "₹ 11200 / sq.ft",
+    "type": "Villa",
+    "bhk": "5 BHK",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "balconies": 1,
+    "parking": 2,
+    "area": "2153 sq.ft.",
+    "builtUpArea": "2153 sq.ft.",
+    "plotArea": "2964 sq.ft.",
+    "furnishing": "Semi Furnished",
+    "facing": "West",
+    "floor": "Ground + 1",
+    "totalFloors": 2,
+    "propertyAge": "2 Years",
+    "possession": "Under Construction",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "New Launch",
+    "badgeColor": "blue",
+    "tag": "NEW",
+    "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108198418-584af95a2b6f?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1689346547653-c165d6c1bef6?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108198161-398232ecdcb8?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197934-cf432fa4a5cd?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      12.9784,
+      77.6408
+    ],
+    "agent": {
+      "name": "Rohan Gupta",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9831249155",
+      "email": "rohan.gupta@dwelling.com",
+      "experience": "6 Years",
+      "image": "https://randomuser.me/api/portraits/men/49.jpg"
+    },
+    "statistics": {
+      "views": 1525,
+      "enquiries": 28,
+      "saved": 103
+    },
+    "listedOn": "2026-06-18",
+    "updatedOn": "2026-06-28",
+    "virtualTour": true,
+    "videoAvailable": true
+  },
+  {
+    "id": "p11",
+    "slug": "comfort-court",
+    "title": "Comfort Court",
+    "location": "HSR Layout, Bengaluru",
+    "address": "HSR Layout, Bengaluru, India",
+    "price": "₹ 42 L",
+    "priceValue": 4200000,
+    "pricePerSqft": "₹ 5800 / sq.ft",
+    "type": "Studio",
+    "bhk": "1 BHK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "balconies": 1,
+    "parking": 1,
+    "area": "724 sq.ft.",
+    "builtUpArea": "724 sq.ft.",
+    "plotArea": "905 sq.ft.",
+    "furnishing": "Semi Furnished",
+    "facing": "East",
+    "floor": "4",
+    "totalFloors": 9,
+    "propertyAge": "3 Years",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Budget Buy",
+    "badgeColor": "green",
+    "tag": "NEW",
+    "image": "https://images.unsplash.com/photo-1706808849802-8f876ade0d1f?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1706808849802-8f876ade0d1f?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1641998277833-3a911b7b56d8?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1638454668466-e8dbd5462f20?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Vitrified Tiles",
+      "kitchen": "Modular Kitchen",
+      "doors": "Engineered Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "10 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      12.9121,
+      77.6446
+    ],
+    "agent": {
+      "name": "Divya Menon",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900087109",
+      "email": "divya.menon@dwelling.com",
+      "experience": "4 Years",
+      "image": "https://randomuser.me/api/portraits/women/51.jpg"
+    },
+    "statistics": {
+      "views": 980,
+      "enquiries": 45,
+      "saved": 62
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": false,
+    "videoAvailable": true
+  },
+  {
+    "id": "p12",
+    "slug": "sunshine-apartments",
+    "title": "Sunshine Apartments",
+    "location": "Gachibowli, Hyderabad",
+    "address": "Gachibowli, Hyderabad, India",
+    "price": "₹ 68 L",
+    "priceValue": 6800000,
+    "pricePerSqft": "₹ 6200 / sq.ft",
+    "type": "Apartment",
+    "bhk": "2 BHK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "balconies": 1,
+    "parking": 1,
+    "area": "1097 sq.ft.",
+    "builtUpArea": "1097 sq.ft.",
+    "plotArea": "1371 sq.ft.",
+    "furnishing": "Unfurnished",
+    "facing": "North",
+    "floor": "5",
+    "totalFloors": 14,
+    "propertyAge": "4 Years",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Value Pick",
+    "badgeColor": "green",
+    "tag": "FEATURED",
+    "image": "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1576941089067-2de3c901e126?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Vitrified Tiles",
+      "kitchen": "Modular Kitchen",
+      "doors": "Engineered Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "10 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      17.4401,
+      78.3489
+    ],
+    "agent": {
+      "name": "Suresh Pillai",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900095028",
+      "email": "suresh.pillai@dwelling.com",
+      "experience": "7 Years",
+      "image": "https://randomuser.me/api/portraits/men/52.jpg"
+    },
+    "statistics": {
+      "views": 1340,
+      "enquiries": 58,
+      "saved": 90
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": true,
+    "videoAvailable": true
+  },
+  {
+    "id": "p13",
+    "slug": "garden-view-plot",
+    "title": "Garden View Plot",
+    "location": "Electronic City, Bengaluru",
+    "address": "Electronic City, Bengaluru, India",
+    "price": "₹ 35 L",
+    "priceValue": 3500000,
+    "pricePerSqft": "₹ 1450 / sq.ft",
+    "type": "Plot",
+    "bhk": "Plot",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "balconies": 0,
+    "parking": 0,
+    "area": "2414 sq.ft.",
+    "builtUpArea": "2414 sq.ft.",
+    "plotArea": "2414 sq.ft.",
+    "furnishing": "Unfurnished",
+    "facing": "East",
+    "floor": "-",
+    "totalFloors": 0,
+    "propertyAge": "New",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Investment",
+    "badgeColor": "gold",
+    "tag": "NEW",
+    "image": "https://images.unsplash.com/photo-1635006459494-c9b9665a666e?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1635006459494-c9b9665a666e?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706809019043-c16ada0165e9?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706808958118-48ca527f5a45?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706808886508-e21834b4672c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1593696140826-c58b021acf8b?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197198-63277d473c68?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "A well-located, clear-titled residential plot ideal for custom construction, in a fast-developing neighborhood with strong appreciation potential.",
+    "amenities": [
+      "24x7 Security",
+      "Visitor Parking"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Vitrified Tiles",
+      "kitchen": "Modular Kitchen",
+      "doors": "Engineered Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "10 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      12.8452,
+      77.6602
+    ],
+    "agent": {
+      "name": "Ritu Kapoor",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900102947",
+      "email": "ritu.kapoor@dwelling.com",
+      "experience": "5 Years",
+      "image": "https://randomuser.me/api/portraits/women/53.jpg"
+    },
+    "statistics": {
+      "views": 760,
+      "enquiries": 31,
+      "saved": 40
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": false,
+    "videoAvailable": true
+  },
+  {
+    "id": "p14",
+    "slug": "cedar-heights",
+    "title": "Cedar Heights",
+    "location": "Adyar, Chennai",
+    "address": "Adyar, Chennai, India",
+    "price": "₹ 92 L",
+    "priceValue": 9200000,
+    "pricePerSqft": "₹ 8100 / sq.ft",
+    "type": "Apartment",
+    "bhk": "2 BHK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "balconies": 1,
+    "parking": 1,
+    "area": "1136 sq.ft.",
+    "builtUpArea": "1136 sq.ft.",
+    "plotArea": "1420 sq.ft.",
+    "furnishing": "Semi Furnished",
+    "facing": "South",
+    "floor": "7",
+    "totalFloors": 16,
+    "propertyAge": "2 Years",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Value Pick",
+    "badgeColor": "green",
+    "tag": "TRENDING",
+    "image": "https://images.unsplash.com/photo-1627141234469-24711efb373c?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1627141234469-24711efb373c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1503174971373-b1f69850bded?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1679105796578-aa48a4d7dea3?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1679105796568-6ff0b24670a5?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Vitrified Tiles",
+      "kitchen": "Modular Kitchen",
+      "doors": "Engineered Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "10 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      13.0012,
+      80.2565
+    ],
+    "agent": {
+      "name": "Aditya Joshi",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900110866",
+      "email": "aditya.joshi@dwelling.com",
+      "experience": "8 Years",
+      "image": "https://randomuser.me/api/portraits/men/54.jpg"
+    },
+    "statistics": {
+      "views": 1550,
+      "enquiries": 66,
+      "saved": 110
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": true,
+    "videoAvailable": true
+  },
+  {
+    "id": "p15",
+    "slug": "willow-park",
+    "title": "Willow Park",
+    "location": "Powai, Mumbai",
+    "address": "Powai, Mumbai, India",
+    "price": "₹ 1.85 Cr",
+    "priceValue": 18500000,
+    "pricePerSqft": "₹ 9500 / sq.ft",
+    "type": "Independent House",
+    "bhk": "3 BHK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "balconies": 2,
+    "parking": 2,
+    "area": "1947 sq.ft.",
+    "builtUpArea": "1947 sq.ft.",
+    "plotArea": "2434 sq.ft.",
+    "furnishing": "Fully Furnished",
+    "facing": "West",
+    "floor": "Ground + 1",
+    "totalFloors": 2,
+    "propertyAge": "1 Year",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": true,
+    "verified": true,
+    "badge": "Premium",
+    "badgeColor": "gold",
+    "tag": "HOT",
+    "image": "https://images.unsplash.com/photo-1693837851506-93d3d01d4f44?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1693837851506-93d3d01d4f44?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197330-2f82e7f69111?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108198418-584af95a2b6f?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1689346547653-c165d6c1bef6?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108198161-398232ecdcb8?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      19.1176,
+      72.906
+    ],
+    "agent": {
+      "name": "Neha Verma",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900118785",
+      "email": "neha.verma@dwelling.com",
+      "experience": "9 Years",
+      "image": "https://randomuser.me/api/portraits/women/55.jpg"
+    },
+    "statistics": {
+      "views": 2010,
+      "enquiries": 95,
+      "saved": 140
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": false,
+    "videoAvailable": true
+  },
+  {
+    "id": "p16",
+    "slug": "maple-residency",
+    "title": "Maple Residency",
+    "location": "Kothrud, Pune",
+    "address": "Kothrud, Pune, India",
+    "price": "₹ 1.35 Cr",
+    "priceValue": 13500000,
+    "pricePerSqft": "₹ 8700 / sq.ft",
+    "type": "Duplex",
+    "bhk": "3 BHK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "balconies": 2,
+    "parking": 2,
+    "area": "1552 sq.ft.",
+    "builtUpArea": "1552 sq.ft.",
+    "plotArea": "1940 sq.ft.",
+    "furnishing": "Semi Furnished",
+    "facing": "North",
+    "floor": "9",
+    "totalFloors": 18,
+    "propertyAge": "3 Years",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Premium",
+    "badgeColor": "blue",
+    "tag": "TRENDING",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197934-cf432fa4a5cd?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1641998277833-3a911b7b56d8?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1638454668466-e8dbd5462f20?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Vitrified Tiles",
+      "kitchen": "Modular Kitchen",
+      "doors": "Engineered Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "10 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      18.5074,
+      73.8077
+    ],
+    "agent": {
+      "name": "Manoj Kumar",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900126704",
+      "email": "manoj.kumar@dwelling.com",
+      "experience": "6 Years",
+      "image": "https://randomuser.me/api/portraits/men/56.jpg"
+    },
+    "statistics": {
+      "views": 1720,
+      "enquiries": 70,
+      "saved": 120
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": true,
+    "videoAvailable": true
+  },
+  {
+    "id": "p17",
+    "slug": "emerald-bay",
+    "title": "Emerald Bay",
+    "location": "Edapally, Kochi",
+    "address": "Edapally, Kochi, India",
+    "price": "₹ 78 L",
+    "priceValue": 7800000,
+    "pricePerSqft": "₹ 6900 / sq.ft",
+    "type": "Apartment",
+    "bhk": "2 BHK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "balconies": 1,
+    "parking": 1,
+    "area": "1130 sq.ft.",
+    "builtUpArea": "1130 sq.ft.",
+    "plotArea": "1412 sq.ft.",
+    "furnishing": "Unfurnished",
+    "facing": "East",
+    "floor": "6",
+    "totalFloors": 15,
+    "propertyAge": "4 Years",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Value Pick",
+    "badgeColor": "green",
+    "tag": "FEATURED",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1576941089067-2de3c901e126?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Vitrified Tiles",
+      "kitchen": "Modular Kitchen",
+      "doors": "Engineered Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "10 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      10.0261,
+      76.3086
+    ],
+    "agent": {
+      "name": "Pooja Desai",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900134623",
+      "email": "pooja.desai@dwelling.com",
+      "experience": "5 Years",
+      "image": "https://randomuser.me/api/portraits/women/57.jpg"
+    },
+    "statistics": {
+      "views": 1120,
+      "enquiries": 52,
+      "saved": 80
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": false,
+    "videoAvailable": true
+  },
+  {
+    "id": "p18",
+    "slug": "silver-oak",
+    "title": "Silver Oak",
+    "location": "Rohini, Delhi",
+    "address": "Rohini, Delhi, India",
+    "price": "₹ 1.95 Cr",
+    "priceValue": 19500000,
+    "pricePerSqft": "₹ 7200 / sq.ft",
+    "type": "Villa",
+    "bhk": "3 BHK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "balconies": 2,
+    "parking": 2,
+    "area": "2708 sq.ft.",
+    "builtUpArea": "2708 sq.ft.",
+    "plotArea": "3385 sq.ft.",
+    "furnishing": "Fully Furnished",
+    "facing": "North",
+    "floor": "Ground + 2",
+    "totalFloors": 3,
+    "propertyAge": "New",
+    "possession": "Under Construction",
+    "ownership": "Freehold",
+    "featured": true,
+    "verified": true,
+    "badge": "Luxury",
+    "badgeColor": "red",
+    "tag": "HOT",
+    "image": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706809019043-c16ada0165e9?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706808958118-48ca527f5a45?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706808886508-e21834b4672c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1593696140826-c58b021acf8b?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      28.7345,
+      77.1177
+    ],
+    "agent": {
+      "name": "Sanjay Reddy",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900142542",
+      "email": "sanjay.reddy@dwelling.com",
+      "experience": "10 Years",
+      "image": "https://randomuser.me/api/portraits/men/58.jpg"
+    },
+    "statistics": {
+      "views": 2350,
+      "enquiries": 120,
+      "saved": 190
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": true,
+    "videoAvailable": true
+  },
+  {
+    "id": "p19",
+    "slug": "coastal-breeze-plot",
+    "title": "Coastal Breeze Plot",
+    "location": "Calangute, Goa",
+    "address": "Calangute, Goa, India",
+    "price": "₹ 45 L",
+    "priceValue": 4500000,
+    "pricePerSqft": "₹ 1900 / sq.ft",
+    "type": "Plot",
+    "bhk": "Plot",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "balconies": 0,
+    "parking": 0,
+    "area": "2368 sq.ft.",
+    "builtUpArea": "2368 sq.ft.",
+    "plotArea": "2368 sq.ft.",
+    "furnishing": "Unfurnished",
+    "facing": "West",
+    "floor": "-",
+    "totalFloors": 0,
+    "propertyAge": "New",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Investment",
+    "badgeColor": "gold",
+    "tag": "NEW",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197198-63277d473c68?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1503174971373-b1f69850bded?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1679105796578-aa48a4d7dea3?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "A well-located, clear-titled residential plot ideal for custom construction, in a fast-developing neighborhood with strong appreciation potential.",
+    "amenities": [
+      "24x7 Security",
+      "Visitor Parking"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Vitrified Tiles",
+      "kitchen": "Modular Kitchen",
+      "doors": "Engineered Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "10 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      15.5439,
+      73.7553
+    ],
+    "agent": {
+      "name": "Anjali Rao",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900150461",
+      "email": "anjali.rao@dwelling.com",
+      "experience": "4 Years",
+      "image": "https://randomuser.me/api/portraits/women/59.jpg"
+    },
+    "statistics": {
+      "views": 890,
+      "enquiries": 38,
+      "saved": 55
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": false,
+    "videoAvailable": true
+  },
+  {
+    "id": "p20",
+    "slug": "serenity-sky-residences",
+    "title": "Serenity Sky Residences",
+    "location": "Banjara Hills, Hyderabad",
+    "address": "Banjara Hills, Hyderabad, India",
+    "price": "₹ 5.75 Cr",
+    "priceValue": 57500000,
+    "pricePerSqft": "₹ 15200 / sq.ft",
+    "type": "Penthouse",
+    "bhk": "5 BHK",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "balconies": 4,
+    "parking": 2,
+    "area": "3783 sq.ft.",
+    "builtUpArea": "3783 sq.ft.",
+    "plotArea": "4729 sq.ft.",
+    "furnishing": "Fully Furnished",
+    "facing": "South",
+    "floor": "22",
+    "totalFloors": 28,
+    "propertyAge": "New",
+    "possession": "Under Construction",
+    "ownership": "Freehold",
+    "featured": true,
+    "verified": true,
+    "badge": "Ultra Luxury",
+    "badgeColor": "red",
+    "tag": "HOT",
+    "image": "https://images.unsplash.com/photo-1605146769289-440113cc3d00?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1605146769289-440113cc3d00?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1679105796568-6ff0b24670a5?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197330-2f82e7f69111?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108198418-584af95a2b6f?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1689346547653-c165d6c1bef6?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      17.4156,
+      78.4347
+    ],
+    "agent": {
+      "name": "Amitabh Menon",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900158380",
+      "email": "amitabh.menon@dwelling.com",
+      "experience": "14 Years",
+      "image": "https://randomuser.me/api/portraits/men/60.jpg"
+    },
+    "statistics": {
+      "views": 3120,
+      "enquiries": 160,
+      "saved": 260
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": true,
+    "videoAvailable": true
+  },
+  {
+    "id": "p21",
+    "slug": "golden-meadows",
+    "title": "Golden Meadows",
+    "location": "Jayanagar, Bengaluru",
+    "address": "Jayanagar, Bengaluru, India",
+    "price": "₹ 1.15 Cr",
+    "priceValue": 11500000,
+    "pricePerSqft": "₹ 7600 / sq.ft",
+    "type": "Independent House",
+    "bhk": "3 BHK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "balconies": 2,
+    "parking": 2,
+    "area": "1513 sq.ft.",
+    "builtUpArea": "1513 sq.ft.",
+    "plotArea": "1891 sq.ft.",
+    "furnishing": "Semi Furnished",
+    "facing": "East",
+    "floor": "Ground + 1",
+    "totalFloors": 2,
+    "propertyAge": "6 Years",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Value Pick",
+    "badgeColor": "green",
+    "tag": "TRENDING",
+    "image": "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108198161-398232ecdcb8?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197934-cf432fa4a5cd?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1641998277833-3a911b7b56d8?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1638454668466-e8dbd5462f20?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Vitrified Tiles",
+      "kitchen": "Modular Kitchen",
+      "doors": "Engineered Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "10 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      12.925,
+      77.5938
+    ],
+    "agent": {
+      "name": "Priya Sharma",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900166299",
+      "email": "priya.sharma@dwelling.com",
+      "experience": "7 Years",
+      "image": "https://randomuser.me/api/portraits/women/61.jpg"
+    },
+    "statistics": {
+      "views": 1480,
+      "enquiries": 64,
+      "saved": 95
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": false,
+    "videoAvailable": true
+  },
+  {
+    "id": "p22",
+    "slug": "riverside-residency",
+    "title": "Riverside Residency",
+    "location": "OMR, Chennai",
+    "address": "OMR, Chennai, India",
+    "price": "₹ 88 L",
+    "priceValue": 8800000,
+    "pricePerSqft": "₹ 7300 / sq.ft",
+    "type": "Apartment",
+    "bhk": "2 BHK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "balconies": 1,
+    "parking": 1,
+    "area": "1205 sq.ft.",
+    "builtUpArea": "1205 sq.ft.",
+    "plotArea": "1506 sq.ft.",
+    "furnishing": "Unfurnished",
+    "facing": "East",
+    "floor": "9",
+    "totalFloors": 19,
+    "propertyAge": "3 Years",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Premium",
+    "badgeColor": "gold",
+    "tag": "FEATURED",
+    "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Vitrified Tiles",
+      "kitchen": "Modular Kitchen",
+      "doors": "Engineered Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "10 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      12.8996,
+      80.227
+    ],
+    "agent": {
+      "name": "Rahul Mehta",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900174218",
+      "email": "rahul.mehta@dwelling.com",
+      "experience": "6 Years",
+      "image": "https://randomuser.me/api/portraits/men/62.jpg"
+    },
+    "statistics": {
+      "views": 1290,
+      "enquiries": 55,
+      "saved": 88
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": true,
+    "videoAvailable": true
+  },
+  {
+    "id": "p23",
+    "slug": "sapphire-studios",
+    "title": "Sapphire Studios",
+    "location": "Vasant Kunj, Delhi",
+    "address": "Vasant Kunj, Delhi, India",
+    "price": "₹ 55 L",
+    "priceValue": 5500000,
+    "pricePerSqft": "₹ 6000 / sq.ft",
+    "type": "Studio",
+    "bhk": "1 BHK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "balconies": 1,
+    "parking": 1,
+    "area": "917 sq.ft.",
+    "builtUpArea": "917 sq.ft.",
+    "plotArea": "1146 sq.ft.",
+    "furnishing": "Semi Furnished",
+    "facing": "North",
+    "floor": "3",
+    "totalFloors": 10,
+    "propertyAge": "2 Years",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Budget Buy",
+    "badgeColor": "blue",
+    "tag": "NEW",
+    "image": "https://images.unsplash.com/photo-1615529182904-14819c35db37?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1615529182904-14819c35db37?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1576941089067-2de3c901e126?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706809019043-c16ada0165e9?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706808958118-48ca527f5a45?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1706808886508-e21834b4672c?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Vitrified Tiles",
+      "kitchen": "Modular Kitchen",
+      "doors": "Engineered Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "10 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      28.5244,
+      77.1591
+    ],
+    "agent": {
+      "name": "Ananya Reddy",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900182137",
+      "email": "ananya.reddy@dwelling.com",
+      "experience": "3 Years",
+      "image": "https://randomuser.me/api/portraits/women/63.jpg"
+    },
+    "statistics": {
+      "views": 860,
+      "enquiries": 29,
+      "saved": 48
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": false,
+    "videoAvailable": true
+  },
+  {
+    "id": "p24",
+    "slug": "palm-grove-villa",
+    "title": "Palm Grove Villa",
+    "location": "Hinjewadi, Pune",
+    "address": "Hinjewadi, Pune, India",
+    "price": "₹ 2.40 Cr",
+    "priceValue": 24000000,
+    "pricePerSqft": "₹ 9800 / sq.ft",
+    "type": "Villa",
+    "bhk": "4 BHK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "balconies": 3,
+    "parking": 2,
+    "area": "2449 sq.ft.",
+    "builtUpArea": "2449 sq.ft.",
+    "plotArea": "3061 sq.ft.",
+    "furnishing": "Fully Furnished",
+    "facing": "West",
+    "floor": "Ground + 2",
+    "totalFloors": 3,
+    "propertyAge": "1 Year",
+    "possession": "Under Construction",
+    "ownership": "Freehold",
+    "featured": true,
+    "verified": true,
+    "badge": "Luxury",
+    "badgeColor": "red",
+    "tag": "HOT",
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1593696140826-c58b021acf8b?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197198-63277d473c68?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1503174971373-b1f69850bded?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      18.5908,
+      73.7387
+    ],
+    "agent": {
+      "name": "Arjun Nair",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900190056",
+      "email": "arjun.nair@dwelling.com",
+      "experience": "9 Years",
+      "image": "https://randomuser.me/api/portraits/men/64.jpg"
+    },
+    "statistics": {
+      "views": 2280,
+      "enquiries": 110,
+      "saved": 175
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": true,
+    "videoAvailable": true
+  },
+  {
+    "id": "p25",
+    "slug": "ocean-pearl-apartments",
+    "title": "Ocean Pearl Apartments",
+    "location": "Thane, Mumbai",
+    "address": "Thane, Mumbai, India",
+    "price": "₹ 1.05 Cr",
+    "priceValue": 10500000,
+    "pricePerSqft": "₹ 12500 / sq.ft",
+    "type": "Apartment",
+    "bhk": "2 BHK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "balconies": 1,
+    "parking": 1,
+    "area": "840 sq.ft.",
+    "builtUpArea": "840 sq.ft.",
+    "plotArea": "1050 sq.ft.",
+    "furnishing": "Unfurnished",
+    "facing": "South",
+    "floor": "11",
+    "totalFloors": 20,
+    "propertyAge": "5 Years",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Premium",
+    "badgeColor": "gold",
+    "tag": "TRENDING",
+    "image": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1679105796568-6ff0b24670a5?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197330-2f82e7f69111?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108198418-584af95a2b6f?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Vitrified Tiles",
+      "kitchen": "Modular Kitchen",
+      "doors": "Engineered Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "10 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      19.2183,
+      72.9781
+    ],
+    "agent": {
+      "name": "Kavita Nair",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900197975",
+      "email": "kavita.nair@dwelling.com",
+      "experience": "8 Years",
+      "image": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "statistics": {
+      "views": 1690,
+      "enquiries": 72,
+      "saved": 130
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": false,
+    "videoAvailable": true
+  },
+  {
+    "id": "p26",
+    "slug": "sunset-ridge-villas",
+    "title": "Sunset Ridge Villas",
+    "location": "Sarjapur Road, Bengaluru",
+    "address": "Sarjapur Road, Bengaluru, India",
+    "price": "₹ 2.15 Cr",
+    "priceValue": 21500000,
+    "pricePerSqft": "₹ 9200 / sq.ft",
+    "type": "Villa",
+    "bhk": "4 BHK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "balconies": 3,
+    "parking": 2,
+    "area": "2337 sq.ft.",
+    "builtUpArea": "2337 sq.ft.",
+    "plotArea": "2921 sq.ft.",
+    "furnishing": "Fully Furnished",
+    "facing": "East",
+    "floor": "Ground + 1",
+    "totalFloors": 2,
+    "propertyAge": "New",
+    "possession": "Under Construction",
+    "ownership": "Freehold",
+    "featured": true,
+    "verified": true,
+    "badge": "Luxury",
+    "badgeColor": "red",
+    "tag": "HOT",
+    "image": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1689346547653-c165d6c1bef6?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108198161-398232ecdcb8?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1635108197934-cf432fa4a5cd?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1641998277833-3a911b7b56d8?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1638454668466-e8dbd5462f20?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Italian Marble",
+      "kitchen": "Modular Kitchen",
+      "doors": "Teak Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "11 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      12.901,
+      77.7877
+    ],
+    "agent": {
+      "name": "Vikram Singh",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900205894",
+      "email": "vikram.singh@dwelling.com",
+      "experience": "8 Years",
+      "image": "https://randomuser.me/api/portraits/men/66.jpg"
+    },
+    "statistics": {
+      "views": 1980,
+      "enquiries": 88,
+      "saved": 150
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": true,
+    "videoAvailable": true
+  },
+  {
+    "id": "p27",
+    "slug": "metro-central-suites",
+    "title": "Metro Central Suites",
+    "location": "Karol Bagh, Delhi",
+    "address": "Karol Bagh, Delhi, India",
+    "price": "₹ 38 L",
+    "priceValue": 3800000,
+    "pricePerSqft": "₹ 5200 / sq.ft",
+    "type": "Studio",
+    "bhk": "1 BHK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "balconies": 1,
+    "parking": 1,
+    "area": "731 sq.ft.",
+    "builtUpArea": "731 sq.ft.",
+    "plotArea": "914 sq.ft.",
+    "furnishing": "Semi Furnished",
+    "facing": "West",
+    "floor": "2",
+    "totalFloors": 8,
+    "propertyAge": "3 Years",
+    "possession": "Ready to Move",
+    "ownership": "Freehold",
+    "featured": false,
+    "verified": true,
+    "badge": "Budget Buy",
+    "badgeColor": "green",
+    "tag": "NEW",
+    "image": "https://images.unsplash.com/photo-1600566753151-384129cf4e3e?auto=format&fit=crop&w=2070&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600566753151-384129cf4e3e?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=2070&q=80"
+    ],
+    "description": "Modern premium residence with spacious interiors, landscaped surroundings, premium finishes, smart home features, and world-class amenities.",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Club House",
+      "Children's Play Area",
+      "Power Backup",
+      "24x7 Security",
+      "Visitor Parking",
+      "EV Charging Station"
+    ],
+    "nearby": [
+      {
+        "name": "Metro Station",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Shopping Mall",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "Hospital",
+        "distance": "1.5 km"
+      },
+      {
+        "name": "International School",
+        "distance": "900 m"
+      },
+      {
+        "name": "IT Park",
+        "distance": "2.4 km"
+      }
+    ],
+    "specifications": {
+      "flooring": "Vitrified Tiles",
+      "kitchen": "Modular Kitchen",
+      "doors": "Engineered Wood",
+      "windows": "UPVC",
+      "ceilingHeight": "10 ft",
+      "waterSupply": "24 Hours",
+      "powerBackup": "100%",
+      "internet": "Fiber Ready"
+    },
+    "coordinates": [
+      28.6519,
+      77.1909
+    ],
+    "agent": {
+      "name": "Sneha Iyer",
+      "designation": "Senior Property Consultant",
+      "phone": "+91 9900213813",
+      "email": "sneha.iyer@dwelling.com",
+      "experience": "3 Years",
+      "image": "https://randomuser.me/api/portraits/women/67.jpg"
+    },
+    "statistics": {
+      "views": 720,
+      "enquiries": 22,
+      "saved": 35
+    },
+    "listedOn": "2026-06-20",
+    "updatedOn": "2026-06-30",
+    "virtualTour": false,
+    "videoAvailable": true
+  }
+]

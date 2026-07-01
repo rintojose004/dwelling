@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dwelling-light: #ffffff;
+  --color-dwelling-dark: rgb(0, 0, 0);
+  --color-dwelling-primary: #374151;
+  --color-dwelling-accent: #020f27;
+  --color-dwelling-muted: #6b7280;
+  --color-dwelling-surface: #f4f6f3;
+  --color-dwelling-accent-light: rgba(15, 46, 103, 0.06);
+  --color-dwelling-accent-strong: rgba(15, 46, 103, 0.12);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  html,
+  body {
+    @apply overflow-x-hidden;
+  }
+  body {
+    @apply bg-dwelling-light text-dwelling-dark;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/70 backdrop-blur-md border border-white/20 shadow-lg;
+  }
+  .glass-dark {
+    @apply bg-dwelling-dark/80 backdrop-blur-md border border-white/10 shadow-lg;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #fafafa;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-dwelling-accent);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-dwelling-accent);
+}
