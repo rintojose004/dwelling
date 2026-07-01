@@ -17,7 +17,7 @@ export default function Wishlist() {
 
         {wishlist.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {wishlist.map((property, index) => (<PropertyCard key={property.id} property={property} index={index} />))}
+            {wishlist.map((property) => (<PropertyCard key={property.id} property={property} />))}
           </div>) : (<div className="text-center py-20 bg-white rounded-2xl border border-gray-100 shadow-sm">
             <h3 className="text-2xl font-serif font-bold text-dwelling-dark mb-3">No properties saved yet</h3>
             <p className="text-sm text-dwelling-muted mb-8 max-w-sm mx-auto">

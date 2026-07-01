@@ -1,7 +1,7 @@
-import { useState, useMemo, useCallback, memo } from "react";
+import { useState, useMemo, useCallback, memo, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import {  HiOutlineHeart,  HiHeart,  HiOutlineLocationMarker,  HiChevronLeft, 
-  HiChevronRight, HiBadgeCheck,HiOutlineArrowRight } from "react-icons/hi";
+  HiChevronRight, HiBadgeCheck, HiOutlineArrowRight } from "react-icons/hi";
 import { BiBed, BiBath, BiArea } from "react-icons/bi";
 import { motion, AnimatePresence } from "framer-motion";
 import { useWishlist } from "@/context/WishlistContext";
@@ -16,6 +16,10 @@ export const PropertyCard = memo(({ property, index = 0 }) => {
 
   const [imageIndex, setImageIndex] = useState(0);
   const [isHovered, setIsHovered] = useState(false);
+  
+  // Track touch coordinates for mobile swiping
+  const touchStartX = useRef(0);
+  const touchEndX = useRef(0);
 
   const images = useMemo(() =>
       property.gallery && property.gallery.length > 0 ? property.gallery : [property.image],
@@ -33,16 +37,47 @@ export const PropertyCard = memo(({ property, index = 0 }) => {
   }, [goToDetails]);
 
   const goPrev = useCallback((e) => {
-    e.preventDefault();
-    e.stopPropagation();
+    if (e) {
+      e.preventDefault();
+      e.stopPropagation();
+    }
     setImageIndex((i) => (i === 0 ? images.length - 1 : i - 1));
   }, [images.length]);
 
   const goNext = useCallback((e) => {
-    e.preventDefault();
-    e.stopPropagation();
-    setImageIndex((i) => (i === images.length - 1 ? 0 : i + 1));
-  }, [images.length]);
+      if (e) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+      setImageIndex((i) => (i === images.length - 1 ? 0 : i + 1));
+    }, [images.length]);
+
+    // Touch Swipe Handlers
+    const handleTouchStart = useCallback((e) => {
+      touchStartX.current = e.targetTouches[0].clientX;
+    }, []);
+
+    const handleTouchMove = useCallback((e) => {
+      touchEndX.current = e.targetTouches[0].clientX;
+    }, []);
+
+    const handleTouchEnd = useCallback((e) => {
+      if (!touchStartX.current || !touchEndX.current) return;
+
+      const distance = touchStartX.current - touchEndX.current;
+      const swipeThreshold = 50;
+      if (distance > swipeThreshold) {
+        e.preventDefault();
+        e.stopPropagation();
+        goNext();
+      } else if (distance < -swipeThreshold) {
+        e.preventDefault();
+        e.stopPropagation();
+        goPrev();
+      }
+      touchStartX.current = 0;
+      touchEndX.current = 0;
+  }, [goNext, goPrev]);
 
   const handleWishlistClick = useCallback((e) => {
     e.preventDefault();
@@ -56,8 +91,10 @@ export const PropertyCard = memo(({ property, index = 0 }) => {
         border-gray-100 shadow-sm hover:shadow-sm hover:border-dwelling-accent/30
         transition-[box-shadow,border-color] duration-200 group flex flex-col cursor-pointer outline-none
         focus-visible:ring-2 focus-visible:ring-dwelling-accent focus-visible:ring-offset-2">
-      {/* Media Window Container */}
-      <div className="relative aspect-4/3 overflow-hidden bg-gray-50">
+      
+      {/* Media Window Container with Added Touch Listeners */}
+      <div onTouchStart={handleTouchStart}onTouchMove={handleTouchMove}onTouchEnd={handleTouchEnd}
+        className="relative aspect-4/3 overflow-hidden bg-gray-50">
         {images.map((src, i) => (
           <img key={src} src={src} alt={`${property.title} ${i + 1}`} loading="lazy"
             className={`absolute inset-0 w-full h-full object-cover transition-all duration-700 ease-out 
@@ -125,7 +162,6 @@ export const PropertyCard = memo(({ property, index = 0 }) => {
       <div className="p-5 flex flex-col grow justify-between gap-4">
         <div>
           <div className="flex justify-between items-start gap-4 mb-2">
-            {/* Left Content Area: Strictly handling long text containment */}
             <div className="min-w-0 flex-1">
               <h3 title={property.title} className="block font-semibold text-gray-900 text-base sm:text-lg leading-snug
                tracking-tight bg-linear-to-r from-dwelling-accent to-dwelling-accent bg-no-repeat bg-size-[0%_1px] 
@@ -137,7 +173,6 @@ export const PropertyCard = memo(({ property, index = 0 }) => {
               </div>
             </div>
             
-            {/* Right Price Layout Area */}
             <div className="text-right shrink-0 flex flex-col items-end pl-2">
               <p className="font-bold text-dwelling-accent text-base sm:text-lg leading-snug">{property.price}</p>
               {property.pricePerSqft && (
@@ -147,7 +182,6 @@ export const PropertyCard = memo(({ property, index = 0 }) => {
           </div>
         </div>
 
-        {/* Footer Details Row */}
         <div className="pt-4 border-t border-gray-100 flex items-center justify-between flex-wrap gap-x-4 gap-y-2">
           <div className="flex items-center gap-x-4 gap-y-1.5 flex-wrap text-xs font-medium text-gray-600">
             {property.bhk && (

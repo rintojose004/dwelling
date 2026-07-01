@@ -25,7 +25,7 @@ export default function FeaturedProperties() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {featured.map((property, index) => (
-            <PropertyCard key={property.id} property={property} index={index} />))}
+            <PropertyCard key={property.id} property={property} />))}
         </div>
 
         <div className="flex sm:hidden justify-center mt-8">

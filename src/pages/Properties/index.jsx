@@ -5,6 +5,7 @@ import propertiesData from "../../data/properties.json";
 import { locations, propertyTypes, budgetRanges } from "@/data/filterOptions";
 import { PropertyCard } from "@/components/PropertyCard";
 import { SelectDropdown } from "@/components/SelectDropdown";
+import { Pagination } from "@/components/Pagination";
 
 const ITEMS_PER_PAGE = 9;
 const SORT_OPTIONS = [
@@ -40,6 +41,9 @@ export default function Properties() {
   const [filterBudget, setFilterBudget] = useState(() => resolveBudgetLabel(searchParams.get("budget")));
   const [sortBy, setSortBy] = useState(() => searchParams.get("sort") || "relevance");
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
+
+  const typeOptions = useMemo(() => ["All", ...propertyTypes].map((t) => ({ value: t, label: t })), []);
+  const budgetOptions = useMemo(() => budgetRanges.map((b) => ({ value: b.label, label: b.label })), []);
 
   // Dynamic calculations for state indicators
   const currentAveragePrice = useMemo(() => {
@@ -206,7 +210,7 @@ export default function Properties() {
                 <div className="space-y-4">
                   <div>
                     <label className={selectLabelStyle}>Type</label>
-                    <SelectDropdown options={useMemo(() => ["All", ...propertyTypes].map((t) => ({ value: t, label: t })), [])} value={filterType} onChange={setFilterType} size="md" panelMaxHeight="12rem" />
+                    <SelectDropdown options={typeOptions} value={filterType} onChange={setFilterType} size="md" panelMaxHeight="12rem" />
                   </div>
                   <div>
                     <label className={selectLabelStyle}>Location</label>
@@ -248,9 +252,9 @@ export default function Properties() {
 
               {mobileFiltersOpen && (
                 <div className="mt-3 bg-white rounded-2xl p-5 border border-gray-100 shadow-xl space-y-4 animate-in fade-in slide-in-from-top-4 duration-200">
-                  <SelectDropdown options={useMemo(() => ["All", ...propertyTypes].map((t) => ({ value: t, label: t })), [])} value={filterType} onChange={setFilterType} placeholder="Property Type" size="md" />
+                  <SelectDropdown options={typeOptions} value={filterType} onChange={setFilterType} placeholder="Property Type" size="md" />
                   <SelectDropdown options={locations} value={filterLocation} onChange={setFilterLocation} placeholder="Location" searchable size="md" />
-                  <SelectDropdown options={budgetRanges.map((b) => ({ value: b.label, label: b.label }))} value={filterBudget} onChange={setFilterBudget} placeholder="Budget" size="md" />
+                  <SelectDropdown options={budgetOptions} value={filterBudget} onChange={setFilterBudget} placeholder="Budget" size="md" />
                   <div className="flex gap-2 pt-2">
                     <button onClick={clearFilters} className="flex-1 px-4 py-2.5 rounded-xl border border-gray-200 text-sm font-medium hover:bg-gray-50 transition">Clear</button>
                     <button onClick={() => setMobileFiltersOpen(false)} className="flex-1 px-4 py-2.5 rounded-xl bg-dwelling-accent text-white text-sm font-medium shadow-sm transition">Apply</button>
@@ -276,63 +280,11 @@ export default function Properties() {
             {visibleProperties.length > 0 ? (
               <>
                 <div id="properties-grid-top" className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {visibleProperties.map((p, i) => (
-                    <div key={p.id} className="">
-                      <PropertyCard property={p} index={i % 9} />
-                    </div>))}
+                  {visibleProperties.map((p) => (
+                    <div key={p.id}><PropertyCard property={p} /></div>))}
                 </div>
-
-                {/* Pagination controls */}
-                {totalPages > 1 && (
-                  <nav className="mt-8 flex items-center justify-center" aria-label="Pagination">
-                    <button
-                      onClick={() => goToPage(Math.max(1, page - 1))}
-                      disabled={page === 1}
-                      className="px-3 py-2 rounded-md mr-2 text-sm border border-gray-200 bg-white hover:bg-gray-50 disabled:opacity-50"
-                      aria-label="Previous page"
-                    >
-                      Prev
-                    </button>
-
-                    <div className="inline-flex items-center gap-2">
-                      {pageRange.map((p, idx) => {
-                        if (p === "left-ellipsis" || p === "right-ellipsis") {
-                          return (
-                            <span key={p + idx} className="px-2 text-sm text-dwelling-muted">
-                              …
-                            </span>
-                          );
-                        }
-                        return (
-                          <button
-                            key={p}
-                            onClick={() => goToPage(p)}
-                            aria-current={p === page ? "page" : undefined}
-                            aria-label={`Go to page ${p}`}
-                            className={`px-3 py-2 rounded-md text-sm font-medium border ${
-                              p === page
-                                ? "bg-dwelling-accent text-white border-dwelling-accent"
-                                : "bg-white text-dwelling-dark border-gray-200 hover:bg-gray-50"
-                            }`}
-                          >
-                            {p}
-                          </button>
-                        );
-                      })}
-                    </div>
-
-                    <button
-                      onClick={() => goToPage(Math.min(totalPages, page + 1))}
-                      disabled={page === totalPages}
-                      className="px-3 py-2 rounded-md ml-2 text-sm border border-gray-200 bg-white hover:bg-gray-50 disabled:opacity-50"
-                      aria-label="Next page"
-                    >
-                      Next
-                    </button>
-                  </nav>
-                )}
-              </>
-            ) : (
+                <Pagination currentPage={page} totalPages={totalPages} onPageChange={goToPage} ariaLabel="Properties pagination" />
+              </>) : (
               /* Fallback Zero State Display Dashboard */
               <div className="text-center py-20 border-2 border-dashed border-gray-200 rounded-3xl bg-dwelling-surface/20 px-6">
                 <div className="w-14 h-14 rounded-2xl bg-white border border-gray-100 flex items-center justify-center mx-auto mb-4 shadow-sm text-dwelling-muted">
@@ -340,13 +292,10 @@ export default function Properties() {
                 </div>
                 <h4 className="text-lg font-bold text-dwelling-dark mb-1">Zero Properties Found</h4>
                 <p className="text-dwelling-muted text-sm max-w-sm mx-auto mb-6">
-                  We currently do not track properties fitting your specialized metrics. Try relaxing global filter constraints.
-                </p>
-                <button onClick={clearFilters} className="px-5 py-2.5 bg-dwelling-accent text-white font-medium text-sm rounded-xl shadow-sm hover:bg-dwelling-accent/90 transition">
-                  Clear Configurations
-                </button>
-              </div>
-            )}
+                  We currently do not track properties fitting your specialized metrics. Try relaxing global filter constraints.</p>
+                <button onClick={clearFilters} className="px-5 py-2.5 bg-dwelling-accent text-white font-medium text-sm
+                 rounded-xl shadow-sm hover:bg-dwelling-accent/90 transition">Clear Configurations</button>
+              </div>)}
           </main>
         </div>
       </div>
