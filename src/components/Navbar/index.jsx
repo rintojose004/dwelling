@@ -73,7 +73,7 @@ export default function Navbar() {
               </AnimatePresence>
             </Link>
 
-            <Link to="/" className="px-6 py-2.5 text-black border border-dwelling-accent text-sm font-medium rounded-lg
+            <Link to="/" className="px-5 py-2.5 text-black border border-dwelling-accent text-sm font-medium rounded-lg
              shadow-md hover:shadow-lg hover:-translate-y-0.5 active:translate-y-0 active:scale-97 transition-all duration-300">
               Login</Link>
           </div>
@@ -108,7 +108,7 @@ export default function Navbar() {
                   </Link>
 
                   <Link to="/" onClick={() => setMobileMenuOpen(false)}
-                    className="px-5 py-2.5 bg-dwelling-accent text-white text-sm font-medium rounded-lg shadow-md hover:shadow-lg active:scale-97 transition-all duration-300">Login</Link>
+                    className="px-5 py-2.5 border border-dwelling-accent text-dwelling-accent text-sm font-medium rounded-lg shadow-md hover:shadow-lg active:scale-97 transition-all duration-300">Login</Link>
                 </div>
               </div>
             </motion.div>)}
