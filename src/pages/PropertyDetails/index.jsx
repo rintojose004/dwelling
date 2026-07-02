@@ -215,7 +215,7 @@ const PropertyDetails = () => {
 
                 <div className="mt-4 grid grid-cols-2 gap-3">
                   <a href={`tel:${property.agent?.phone ?? ''}`} className="block px-3 py-2 rounded-lg text-center text-sm 
-                    font-semibold bg-emerald-300 text-emerald-800 border border-emerald-200 hover:bg-emerald-200">Call</a>
+                    font-semibold bg-emerald-400 text-emerald-800 border border-emerald-300 hover:bg-emerald-200">Call</a>
 
                   <button onClick={() => setVisitDialogOpen(true)} className="block px-3 py-2 rounded-lg text-center 
                     bg-dwelling-accent text-white text-sm font-semibold">Schedule a Visit</button>
